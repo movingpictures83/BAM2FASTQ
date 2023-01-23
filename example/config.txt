@@ -1,0 +1,2 @@
+Prefix plugins/BAM2FASTQ/example/
+Plugin BAM2FASTQ inputfile input.bam outputfile output.fastq
